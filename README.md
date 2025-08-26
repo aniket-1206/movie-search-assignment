@@ -26,10 +26,10 @@ This repository contains my solution for the semantic search on movie plots assi
    ```
 
 ## Testing
-Unit tests are provided in your classroom template repository under `tests/test_movie_search.py`.  
-Copy the entire `tests/` folder into this project, then run:
+Unit tests are provided in your classroom template repository under `test_movie_search.py`.  
+
 ```bash
-python -m unittest tests/test_movie_search.py -v
+python -m unittest test_movie_search.py -v
 ```
 
 ## Usage
