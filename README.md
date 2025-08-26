@@ -50,6 +50,8 @@ python movie_search.py --csv movies.csv --query "spy thriller in Paris" --top-n 
 ```
 
 here are my results :
+
+
 ============================= test session starts =============================
 platform win32 -- Python 3.11.0, pytest-8.4.1, pluggy-1.6.0 -- C:\ai\1\movie-search-assignment\venv\Scripts\python.exe
 cachedir: .pytest_cache
