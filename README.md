@@ -49,7 +49,7 @@ CLI example:
 python movie_search.py --csv movies.csv --query "spy thriller in Paris" --top-n 5
 ```
 
-here are my results :
+Here are my results :
 
 
 ============================= test session starts =============================
